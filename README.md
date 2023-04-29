@@ -1,6 +1,3 @@
-# py_chatgpt
-A Chatbot in Python powered by ChatGPT &amp; Gradio in less than 25 lines of code
-
 # ChatGPT-Gradio-Chatbot
 
 A simple chatbot powered by OpenAI's ChatGPT and Gradio, built using Python in less than 25 lines of code.
@@ -26,7 +23,7 @@ Before you begin, you'll need:
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/yourusername/ChatGPT-Gradio-Chatbot.git
@@ -37,7 +34,8 @@ git clone https://github.com/yourusername/ChatGPT-Gradio-Chatbot.git
 export OPENAI_API_KEY="your_api_key_here"
 
 ### Run the chatbot:
-python chatbot.py
+
+bash python chatbot.py
 
 Open your web browser and navigate to the URL provided by Gradio. Enjoy chatting with your AI-powered chatbot!
 For more details on customizing the chatbot or the Gradio UI, please refer to the Medium article.
