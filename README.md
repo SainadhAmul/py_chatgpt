@@ -30,3 +30,14 @@ Before you begin, you'll need:
 
 ```bash
 git clone https://github.com/yourusername/ChatGPT-Gradio-Chatbot.git
+
+
+## Usage
+### Set your OpenAI API key:
+export OPENAI_API_KEY="your_api_key_here"
+
+### Run the chatbot:
+python chatbot.py
+
+Open your web browser and navigate to the URL provided by Gradio. Enjoy chatting with your AI-powered chatbot!
+For more details on customizing the chatbot or the Gradio UI, please refer to the Medium article.
