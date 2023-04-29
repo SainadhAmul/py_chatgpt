@@ -2,7 +2,7 @@
 
 A simple chatbot powered by OpenAI's ChatGPT and Gradio, built using Python in less than 25 lines of code.
 
-![Chatbot Demo](./demo.png)
+![Chatbot Demo](./Examples/got.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
